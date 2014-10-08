@@ -31,7 +31,7 @@ namespace ProjectElysium
 
             ico = notifyIcon1.Icon;
 
-            // INTERFACE COLOR
+            // SET INTERFACE COLOR
 
             //backcolor
             this.BackColor = ColorTranslator.FromHtml("#000000");
