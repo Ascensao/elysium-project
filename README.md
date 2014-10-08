@@ -1,0 +1,1 @@
+Elysium Project consists in the development of an advanced and futuristic personal assistant created for windows OS. Its main purpose is to facilitate user-pc interaction through voice commands . The Elysium program comes with number of default voice commands but the user can also program new commands and alter existing commands.
