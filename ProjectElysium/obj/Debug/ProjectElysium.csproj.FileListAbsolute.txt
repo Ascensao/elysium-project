@@ -1,0 +1,51 @@
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe.config
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Form1.resources
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Properties.Resources.resources
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\InputSimulator.dll
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\InputSimulator.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\Projecto Elysium\ProjectElysium\ProjectElysium\bin\Debug\InputSimulator.xml
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe.config
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\bin\Debug\InputSimulator.pdb
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\bin\Debug\InputSimulator.xml
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Form1.resources
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Properties.Resources.resources
+C:\Users\Bernardo\Dropbox\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe.config
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Form1.resources
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Properties.Resources.resources
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.ResolveComReference.cache
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\bin\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Dropbox\Trabalho\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe.config
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\Interop.Shell32.dll
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.ResolveComReference.cache
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Form1.resources
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.Properties.Resources.resources
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\obj\Debug\ProjectElysium.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.exe
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\bin\Debug\ProjectElysium.pdb
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bernardo\Desktop\ProjectElysium\ProjectElysium\bin\Debug\Interop.Shell32.dll

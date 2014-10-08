@@ -1,0 +1,130 @@
+AAA1 elysium close
+AAA2 elysium exit now
+AAA3 elysium shutdown
+AAA4 elysium clean
+AAA5 elysium clear
+AAA6 elysium hide
+AAA6 elysium disappear
+AAA7 show me elysium
+AAA7 elysium appear
+AAA7 elysium reveals
+AAA9 list commands
+AAA9 show me commands
+AAB1 elysium stop
+AAB2 elysium start
+AAB3 elysium start when windows start up
+AAB3 elysium copy to start up
+AAB4 elysium not start when windows start up
+AAB4 elysium start up delete
+AAB5 elysium restart
+AAB6 active desktop commands
+AAB7 active music commands
+AAB8 active primary commands
+AAB9 active custom commands
+AAC1 block desktop commands
+AAC2 block music commands
+AAC3 block primary commands
+AAC4 block custom commands
+AAC6 add primary command
+AAC6 create primary command
+AAC7 add custom command
+AAC7 create custom command
+AAC8 change primary command
+AAC9 change default command
+AAD0 change custom command
+AAD1 delete primary command
+AAD2 delete custom command
+AAD3 open custom commands
+AAD4 open primary commands
+ABA0 reboot system
+ABA0 restart system
+ABA1 lock computer
+ABA2 emergency shutdown
+ABA3 shutdown system
+ABA5 cancel shutdown
+ABA6 battery status
+ABA7 battery level
+ABB9 empty trash
+ABB9 clean trash
+ABA9 close window
+ABB0 screen settings
+ABB1 devices
+ABB2 settings
+ABB3 datetime
+ABB3 show me time
+ABB3 show me date
+ABB4 account log off
+ABB4 account log out
+ABB5 task manager
+ABB6 windows command
+ABB7 control panel
+ABB9 clean recycle bin
+ACA1 tab exit
+ACA2 return
+ACA3 cut
+ACA4 exit
+ACA5 copy
+ACA6 paste
+ACA7 press enter
+ACA8 press start
+ACB0 press key down
+ACB1 press key up
+ACB2 press key right
+ACB2 next photo
+ACB3 press key left
+ACB3 previous photo
+ACB4 browser search
+ACB5 document search
+ACB6 minimize
+ACB7 maximize
+ACB8 save work
+ACB9 press delete
+ACC0 turn on caps lock
+ACC1 scroll up
+ACC2 scroll down
+ACC3 page up
+ACC4 page down
+ACC5 num lock
+ACC6 turn on scroll lock
+ACC7 refresh
+ACC8 show me desktop
+ACC9 right window
+ACD0 left window
+ADA1 play media
+ADA2 pause media
+ADA3 stop media
+ADA4 next track
+ADA5 previous track
+ADA6 mute
+ADA7 mute stop
+ADA8 unmute
+ADA9 increase sound
+ADB0 reduce sound
+ADB1 play music
+AEA1 open start menu
+AEA2 open start up
+AEA3 open desktop
+AEA4 open internet cache
+AEA5 open my computer
+AEA6 open my documents
+AEA7 open my music
+AEA8 open my pictures
+AEA9 open my videos
+AEB0 open programs
+AEB1 open computer
+AFA1 show me weather
+AFA1 open weather
+AFA2 save weather page
+AFA3 show me news
+AFA3 open news
+AFA4 save news page
+AFA6 show me email
+AFA6 open email
+AFA7 save email page
+AGA1 open calculator
+AGA2 open paint
+AGA3 open web browser
+AGA4 open notepad
+AGA5 turn off caps log
+AGA6 turn off scroll lock
+AGA7 credits

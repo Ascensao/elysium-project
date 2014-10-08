@@ -1,0 +1,54 @@
+open facebook
+http://facebook.com
+open google
+http://google.com
+open youtube
+http://youtube.com
+open amazon
+http://amazon.com
+open ebay
+http://ebay.com
+open wikipedia
+http://wikipedia.com
+open twitter
+http://twitter.com
+open tumblr
+http://tumblr.com
+open instagram
+http://instagram.com
+open apple
+http://apple.com
+open paypal
+http://paypal.com
+open pirate bay
+http://thepiratebay.sx
+open torrentz
+http://torrentz.com
+open ask
+http://ask.com
+open yahoo
+http://yahoo.com
+open bing
+http://bing.com
+open stack overflow
+http://stackoverflow.com
+open dailymotion
+http://dailymotion.com
+open microsoft
+http://microsoft.com
+open linked in
+http://linkedin.com
+open menssager
+http://msn.com
+open movie database
+http://imbd.com
+open gmail
+http://gmail.com
+open hotmail
+http://hotmail.com
+open cnn
+http://cnn.com
+open craiglist
+http://craiglist.com
+open adobe
+http://adobe.com
